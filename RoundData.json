@@ -1,7 +1,6 @@
 {
     "rounds": [
         {
-            "round": 1,
             "spawnCount": [
                 4,
                 5,
@@ -10,7 +9,6 @@
             ]
         },
         {
-            "round": 2,
             "spawnCount": [
                 1,
                 6,
