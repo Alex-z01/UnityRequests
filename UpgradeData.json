@@ -1,0 +1,15 @@
+{
+    "jsonUpgrades": [
+        {
+            "name": "Example Upgrade",
+            "id": 0,
+            "bonusAtkDelay": 0.10000000149011612,
+            "bonusDMG": 0,
+            "bonusRange": 0.0,
+            "atkCount": 0,
+            "bonusAtkDelayPercent": 0.0,
+            "bonusDMGPercent": 0,
+            "bonusRangePercent": 0.0
+        }
+    ]
+}
