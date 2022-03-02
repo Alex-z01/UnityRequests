@@ -1,15 +1,58 @@
 {
     "jsonUpgrades": [
         {
-            "name": "Example Upgrade",
             "id": 0,
-            "bonusAtkDelay": 0.10000000149011612,
-            "bonusDMG": 0,
-            "bonusRange": 0.0,
-            "atkCount": 0,
-            "bonusAtkDelayPercent": 0.0,
-            "bonusDMGPercent": 0,
-            "bonusRangePercent": 0.0
+            "name": "Sharp Beak",
+            "desc": "Increase tower damage by 5, range reduced by 0.2",
+            "bonusAtkDelay": [
+                0.0,
+                0.0
+            ],
+            "bonusDMG": [
+                5,
+                0
+            ],
+            "bonusRange": [
+                -0.20000000298023225,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 1,
+            "name": "Serrated Beak",
+            "desc": "More damage!",
+            "bonusAtkDelay": [
+                0.0,
+                0.0
+            ],
+            "bonusDMG": [
+                5,
+                0
+            ],
+            "bonusRange": [
+                0.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 2,
+            "name": "Crunch Force",
+            "desc": "The chicken can bite down much harder, but it can't bite as fast.",
+            "bonusAtkDelay": [
+                0.15,
+                0.0
+            ],
+            "bonusDMG": [
+                10,
+                0
+            ],
+            "bonusRange": [
+                0.0,
+                0.0
+            ],
+            "atkCount": 0
         }
     ]
 }
