@@ -21,7 +21,7 @@
         {
             "id": 1,
             "name": "Serrated Beak",
-            "desc": "More damage! DMG: +5",
+            "desc": "More damage! \nDMG: +5",
             "bonusAtkDelay": [
                 0.0,
                 0.0
@@ -39,7 +39,7 @@
         {
             "id": 2,
             "name": "Crunch Force",
-            "desc": "The chicken can bite down much harder, but it can't bite as fast. AtkSpd: -0.15 DMG: +10",
+            "desc": "The chicken can bite down much harder, but it can't bite as fast. \nAtkSpd: -0.15 DMG: +10",
             "bonusAtkDelay": [
                 0.15,
                 0.0
