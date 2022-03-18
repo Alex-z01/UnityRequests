@@ -1,20 +1,56 @@
 {
     "rounds": [
         {
-            "spawnCount": [
-                8,
-                0,
-                0,
-                0
-            ]
+            "spawnClusters": [
+                {
+                    "enemyID": 0,
+                    "spawnCount": 5,
+                    "timeBetween": 1.0,
+                    "timeAfter": 5.0
+                }
+            ],
+            "totalEnemies": 0
         },
         {
-            "spawnCount": [
-                8,
-                4,
-                0,
-                0
-            ]
+            "spawnClusters": [
+                {
+                    "enemyID": 0,
+                    "spawnCount": 4,
+                    "timeBetween": 0.5,
+                    "timeAfter": 3.0
+                },
+                {
+                    "enemyID": 1,
+                    "spawnCount": 3,
+                    "timeBetween": 1.0,
+                    "timeAfter": 3.0
+                }
+            ],
+            "totalEnemies": 0
+        },
+        {
+            "spawnClusters": [
+                {
+                    "enemyID": 0,
+                    "spawnCount": 5,
+                    "timeBetween": 0.30000001192092898,
+                    "timeAfter": 2.0
+                },
+                {
+                    "enemyID": 0,
+                    "spawnCount": 10,
+                    "timeBetween": 0.10000000149011612,
+                    "timeAfter": 4.5
+                },
+                {
+                    "enemyID": 2,
+                    "spawnCount": 2,
+                    "timeBetween": 0.25,
+                    "timeAfter": 5.0
+                }
+            ],
+            "totalEnemies": 0
         }
-    ]
+    ],
+    "totalEnemies": 0
 }
