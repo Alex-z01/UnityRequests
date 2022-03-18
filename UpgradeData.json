@@ -39,7 +39,7 @@
         {
             "id": 2,
             "name": "Crunch Force",
-            "desc": "The chicken can bite down much harder, but it can't bite as fast. \nAtkSpd: -0.15 DMG: +10",
+            "desc": "The chicken can bite down much harder, but it can't bite as fast. \nAtkSpd: +0.15 DMG: +10",
             "bonusAtkDelay": [
                 0.15,
                 0.0
@@ -50,6 +50,42 @@
             ],
             "bonusRange": [
                 0.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 3,
+            "name": "Iron Feathers",
+            "desc": "Iron feathers allow for heavier hitting attacks. \nDMG: +25 Range: -0.1",
+            "bonusAtkDelay": [
+                0.0,
+                0.0
+            ],
+            "bonusDMG": [
+                25,
+                0
+            ],
+            "bonusRange": [
+                -0.1,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 4,
+            "name": "Bigger Bird",
+            "desc": "The chicken grows in size, big chicken hehe. \nDMG: +12 Range: +0.2 AtkSpd: +0.1",
+            "bonusAtkDelay": [
+                0.1,
+                0.0
+            ],
+            "bonusDMG": [
+                12,
+                0
+            ],
+            "bonusRange": [
+                0.2,
                 0.0
             ],
             "atkCount": 0
