@@ -3,7 +3,7 @@
         {
             "id": 0,
             "name": "Sharp Beak",
-            "desc": "Increase tower damage by 5, range reduced by 0.2",
+            "desc": "Beak + Sharpening Stone = Results. DMG:+5 Range: -0.2",
             "bonusAtkDelay": [
                 0.0,
                 0.0
@@ -21,7 +21,7 @@
         {
             "id": 1,
             "name": "Serrated Beak",
-            "desc": "More damage!",
+            "desc": "More damage! DMG: +5",
             "bonusAtkDelay": [
                 0.0,
                 0.0
@@ -39,7 +39,7 @@
         {
             "id": 2,
             "name": "Crunch Force",
-            "desc": "The chicken can bite down much harder, but it can't bite as fast.",
+            "desc": "The chicken can bite down much harder, but it can't bite as fast. AtkSpd: -0.15 DMG: +10",
             "bonusAtkDelay": [
                 0.15,
                 0.0
