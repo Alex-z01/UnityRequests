@@ -3,7 +3,7 @@
         {
             "id": 0,
             "name": "Sharp Beak",
-            "desc": "Beak + Sharpening Stone = Results. DMG:+5 Range: -0.2",
+            "desc": "Beak + Sharpening Stone = Results. \nDMG:+5 Range: -0.2",
             "bonusAtkDelay": [
                 0.0,
                 0.0
