@@ -45,7 +45,7 @@
                 {
                     "enemyID": 0,
                     "spawnCount": 4,
-                    "timeBetween": .8,
+                    "timeBetween": 0.8,
                     "timeAfter": 0.0
                 }
             ],
