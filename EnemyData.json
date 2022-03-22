@@ -4,6 +4,7 @@
             "Name": "Tier 1 Worm",
             "MaxHp": 10,
             "MoveSpeed": 1.5,
+            "Value": 2, 
             "color": {
                 "r": 0.0,
                 "g": 0.9245283007621765,
@@ -17,6 +18,7 @@
             "Name": "Tier 2 Worm",
             "MaxHp": 30,
             "MoveSpeed": 1.75,
+            "Value": 4,
             "color": {
                 "r": 0.7358490228652954,
                 "g": 0.07983269542455673,
@@ -29,6 +31,7 @@
         {
             "Name": "Tier 3 Worm",
             "MaxHp": 50,
+            "Value": 8,
             "MoveSpeed": 2.15,
             "color": {
                 "r": 0.19188325107097627,
@@ -42,6 +45,7 @@
         {
             "Name": "Tier 4 Worm",
             "MaxHp": 100,
+            "Value": 16,
             "MoveSpeed": 1,
             "color": {
                 "r": 0.23,
@@ -55,6 +59,7 @@
         {
             "Name": "Default Invisible Worm",
             "MaxHp": 10,
+            "Value": 5,
             "MoveSpeed": 1.5,
             "color": {
                 "r": 0.35,
@@ -68,6 +73,7 @@
         {
             "Name": "Default Reinforced Worm",
             "MaxHp": 10,
+            "Value": 7,
             "MoveSpeed": 1.5,
             "color": {
                 "r": 0.19188325107097627,
@@ -81,6 +87,7 @@
         {
             "Name": "Slow Aura Worm",
             "MaxHp": 100,
+            "Value": 12,
             "MoveSpeed": 0.65,
             "color": {
                 "r": 0.111,
@@ -94,6 +101,7 @@
         {
             "Name": "Lightning Aura Worm",
             "MaxHp": 20,
+            "Value": 12,
             "MoveSpeed": 2,
             "color": {
                 "r": 0.89,
