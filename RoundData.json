@@ -117,7 +117,8 @@
                     "timeBetween": 1.1,
                     "timeAfter": 0.0
                 }
-            ]
+            ],
+            "totalEnemies": 0
         }
     ],
     "totalEnemies": 0
