@@ -108,6 +108,16 @@
                 }
             ],
             "totalEnemies": 0
+        },
+        {
+            "spawnClusters": [
+                {
+                    "enemyID": 4,
+                    "spawnCount": 5,
+                    "timeBetween": 1.1,
+                    "timeAfter": 0.0
+                }
+            ]
         }
     ],
     "totalEnemies": 0
