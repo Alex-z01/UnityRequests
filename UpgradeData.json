@@ -39,7 +39,7 @@
         {
             "id": 2,
             "name": "Crunch Force",
-            "desc": "The chicken can bite down much harder, but it can't bite as fast. \nAtkSpd: +0.15 DMG: +10",
+            "desc": "The chicken can bite down much harder, but it can't bite as fast. \nAtkSpd: +0.06 DMG: +10",
             "bonusAtkDelay": [
                 0.06,
                 0.0
