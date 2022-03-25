@@ -240,7 +240,7 @@
             "desc": "Trigger finger... no, trigger-wings engaged!!! \nDMG: -2 AtkSpd: -50% Range: +2",
             "bonusAtkDelay": [
                 0.0,
-                50.0
+                -50.0
             ],
             "bonusDMG": [
                 -2,
@@ -248,6 +248,24 @@
             ],
             "bonusRange": [
                 2.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 14,
+            "name": "Sniper",
+            "desc": "Your chicken has enrolled into the military as a spec-ops unit. \nDMG: +6 AtkSpd: +4 Range: +7",
+            "bonusAtkDelay": [
+                +4.0,
+                0.0
+            ],
+            "bonusDMG": [
+                6,
+                0
+            ],
+            "bonusRange": [
+                7.0,
                 0.0
             ],
             "atkCount": 0
