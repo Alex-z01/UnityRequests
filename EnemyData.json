@@ -72,7 +72,7 @@
         },
         {
             "Name": "Default Reinforced Worm",
-            "MaxHp": 10,
+            "MaxHp": 45,
             "Value": 7,
             "MoveSpeed": 1.5,
             "color": {
