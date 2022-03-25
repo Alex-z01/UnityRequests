@@ -89,6 +89,168 @@
                 0.0
             ],
             "atkCount": 0
-        }
+        },
+        {
+            "id": 5,
+            "name": "Lighter Feathers",
+            "desc": "The chicken's feathers have a new atomic structure that makes them lighter! \nAtkSpd: -0.05",
+            "bonusAtkDelay": [
+                -0.05,
+                0.0
+            ],
+            "bonusDMG": [
+                0,
+                0
+            ],
+            "bonusRange": [
+                0.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 6,
+            "name": "Coked out",
+            "desc": "Um, your chicken might've ate something it wasn't supposed to. \nDMG: -5 AtkSpd: -0.05",
+            "bonusAtkDelay": [
+                -0.05,
+                0.0
+            ],
+            "bonusDMG": [
+                -5,
+                0
+            ],
+            "bonusRange": [
+                0.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 7,
+            "name": "Even Lighter Feathers",
+            "desc": "Using DNA modifying technology this chicken's feathers become super light! \nDMG: -8 AtkSpd: -0.05",
+            "bonusAtkDelay": [
+                -0.05,
+                0.0
+            ],
+            "bonusDMG": [
+                -8,
+                0
+            ],
+            "bonusRange": [
+                0.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 8,
+            "name": "Enraged",
+            "desc": "Further consumption of the unknown substance has led to the enraged behavior of your chicken. \nDMG: -15 AtkSpd: -0.07",
+            "bonusAtkDelay": [
+                -0.07,
+                0.0
+            ],
+            "bonusDMG": [
+                -15,
+                0
+            ],
+            "bonusRange": [
+                0.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 9,
+            "name": "Agile Hen",
+            "desc": "Consistent substance use paired with high intensity training has brought us here. \nDMG: -25 AtkSpd: -0.1 Range: -0.5",
+            "bonusAtkDelay": [
+                -0.1,
+                0.0
+            ],
+            "bonusDMG": [
+                -25,
+                0
+            ],
+            "bonusRange": [
+                -0.5,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 10,
+            "name": "Eagle Cosplay",
+            "desc": "Your chicken admires birds of prey and wants to see farther. \nAtkSpd: -0.2 Range: +0.2",
+            "bonusAtkDelay": [
+                -0.2,
+                0.0
+            ],
+            "bonusDMG": [
+                0,
+                0
+            ],
+            "bonusRange": [
+                0.2,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 11,
+            "name": "🔫",
+            "desc": "Your chicken seems to enjoy spending time at the firing range. \nRange: +0.3",
+            "bonusAtkDelay": [
+                0,
+                0.0
+            ],
+            "bonusDMG": [
+                0,
+                0
+            ],
+            "bonusRange": [
+                0.3,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 12,
+            "name": "Marksman",
+            "desc": "Multiple visits to the local optometrist has enhanced the chicken's vision even further. \nDMG: 3 Range: +1",
+            "bonusAtkDelay": [
+                0.0,
+                0.0
+            ],
+            "bonusDMG": [
+                3,
+                0
+            ],
+            "bonusRange": [
+                1.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
+        {
+            "id": 13,
+            "name": "Rapid-fire",
+            "desc": "Trigger finger... no, trigger-wings engaged!!! \nDMG: -2 AtkSpd: -50% Range: +2",
+            "bonusAtkDelay": [
+                0.0,
+                50.0
+            ],
+            "bonusDMG": [
+                -2,
+                0
+            ],
+            "bonusRange": [
+                2.0,
+                0.0
+            ],
+            "atkCount": 0
+        },
     ]
 }
