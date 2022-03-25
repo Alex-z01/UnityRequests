@@ -237,14 +237,14 @@
         {
             "id": 13,
             "name": "Rapid-fire",
-            "desc": "Trigger finger... no, trigger-wings engaged!!! \nDMG: -2 AtkSpd: -50% Range: +2",
+            "desc": "Trigger finger... no, trigger-wings engaged!!! \nDMG: -20% AtkSpd: -50% Range: +2",
             "bonusAtkDelay": [
                 0.0,
                 -50.0
             ],
             "bonusDMG": [
-                -2,
-                0
+                0.0,
+                -20.0
             ],
             "bonusRange": [
                 2.0,
@@ -255,13 +255,13 @@
         {
             "id": 14,
             "name": "Sniper",
-            "desc": "Your chicken has enrolled into the military as a spec-ops unit. \nDMG: +6 AtkSpd: +4 Range: +7",
+            "desc": "Your chicken has enrolled into the military as a spec-ops unit. \nDMG: +11 AtkSpd: +4 Range: +7",
             "bonusAtkDelay": [
                 4.0,
                 0.0
             ],
             "bonusDMG": [
-                6,
+                11,
                 0
             ],
             "bonusRange": [
