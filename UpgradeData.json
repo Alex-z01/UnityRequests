@@ -165,13 +165,13 @@
         {
             "id": 9,
             "name": "Agile Hen",
-            "desc": "Consistent substance use paired with high intensity training has brought us here. \nDMG: -25 AtkSpd: -0.1 Range: -0.5",
+            "desc": "Consistent substance use paired with high intensity training has brought us here. \nDMG: +25 AtkSpd: -0.1 Range: -0.5",
             "bonusAtkDelay": [
                 -0.1,
                 0.0
             ],
             "bonusDMG": [
-                -25,
+                25,
                 0
             ],
             "bonusRange": [
