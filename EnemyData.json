@@ -247,6 +247,117 @@
                 }
             ],
             "totalEnemies": 0
+        },
+        {
+            "spawnClusters": [
+                {
+                    "enemyID": 1,
+                    "spawnCount": 30,
+                    "timeBetween": 0.4000000059604645,
+                    "timeAfter": 0.5
+                },
+                {
+                    "enemyID": 2,
+                    "spawnCount": 30,
+                    "timeBetween": 0.6000000238418579,
+                    "timeAfter": 0.699999988079071
+                },
+                {
+                    "enemyID": 2,
+                    "spawnCount": 20,
+                    "timeBetween": 0.30000001192092898,
+                    "timeAfter": 1.0
+                },
+                {
+                    "enemyID": 3,
+                    "spawnCount": 6,
+                    "timeBetween": 0.8500000238418579,
+                    "timeAfter": 0.8999999761581421
+                },
+                {
+                    "enemyID": 4,
+                    "spawnCount": 15,
+                    "timeBetween": 0.5,
+                    "timeAfter": 0.10000000149011612
+                },
+                {
+                    "enemyID": 2,
+                    "spawnCount": 20,
+                    "timeBetween": 0.6850000023841858,
+                    "timeAfter": 0.0
+                }
+            ],
+            "totalEnemies": 0
+        },
+        {
+            "spawnClusters": [
+                {
+                    "enemyID": 3,
+                    "spawnCount": 10,
+                    "timeBetween": 0.6000000238418579,
+                    "timeAfter": 1.0
+                },
+                {
+                    "enemyID": 5,
+                    "spawnCount": 20,
+                    "timeBetween": 0.23499999940395356,
+                    "timeAfter": 0.699999988079071
+                },
+                {
+                    "enemyID": 3,
+                    "spawnCount": 20,
+                    "timeBetween": 0.6000000238418579,
+                    "timeAfter": 0.20000000298023225
+                },
+                {
+                    "enemyID": 5,
+                    "spawnCount": 20,
+                    "timeBetween": 1.0,
+                    "timeAfter": 1.0
+                },
+                {
+                    "enemyID": 0,
+                    "spawnCount": 40,
+                    "timeBetween": 0.1850000023841858,
+                    "timeAfter": 0.0
+                }
+            ],
+            "totalEnemies": 0
+        },
+        {
+            "spawnClusters": [
+                {
+                    "enemyID": 4,
+                    "spawnCount": 10,
+                    "timeBetween": 0.5,
+                    "timeAfter": 0.10000000149011612
+                },
+                {
+                    "enemyID": 2,
+                    "spawnCount": 20,
+                    "timeBetween": 0.5,
+                    "timeAfter": 0.10000000149011612
+                },
+                {
+                    "enemyID": 4,
+                    "spawnCount": 20,
+                    "timeBetween": 0.5,
+                    "timeAfter": 0.10000000149011612
+                },
+                {
+                    "enemyID": 2,
+                    "spawnCount": 10,
+                    "timeBetween": 0.5,
+                    "timeAfter": 0.10000000149011612
+                },
+                {
+                    "enemyID": 3,
+                    "spawnCount": 15,
+                    "timeBetween": 0.699999988079071,
+                    "timeAfter": 0.0
+                }
+            ],
+            "totalEnemies": 0
         }
     ],
     "totalEnemies": 0
