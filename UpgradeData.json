@@ -200,7 +200,7 @@
         },
         {
             "id": 11,
-            "name": "🔫",
+            "name": "Gun",
             "desc": "Your chicken seems to enjoy spending time at the firing range. \nRange: +0.3",
             "bonusAtkDelay": [
                 0,
