@@ -2,8 +2,8 @@
     "EnemyStatPrefabs": [
         {
             "Name": "Tier 1 Worm",
-            "MaxHp": 10,
-            "MoveSpeed": 1.5,
+            "MaxHp": 3,
+            "MoveSpeed": 1.125,
             "Value": 2, 
             "color": {
                 "r": 0.0,
