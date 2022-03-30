@@ -4,7 +4,7 @@
             "spawnClusters": [
                 {
                     "enemyID": 0,
-                    "spawnCount": 5,
+                    "spawnCount": 4,
                     "timeBetween": 1.0,
                     "timeAfter": 0.0
                 }
