@@ -4,6 +4,7 @@
             "id": 0,
             "name": "Sharp Beak",
             "desc": "Beak + Sharpening Stone = Results. \nDMG:+5 Range: -0.2",
+            "price": 20,
             "bonusAtkDelay": [
                 0.0,
                 0.0
@@ -22,6 +23,7 @@
             "id": 1,
             "name": "Serrated Beak",
             "desc": "More damage! \nDMG: +5",
+            "price": 20,
             "bonusAtkDelay": [
                 0.0,
                 0.0
@@ -40,6 +42,7 @@
             "id": 2,
             "name": "Crunch Force",
             "desc": "The chicken can bite down much harder, but it can't bite as fast. \nAtkSpd: +0.06 DMG: +10",
+            "price": 35,
             "bonusAtkDelay": [
                 0.06,
                 0.0
@@ -58,6 +61,7 @@
             "id": 3,
             "name": "Iron Feathers",
             "desc": "Iron feathers allow for heavier hitting attacks. \nDMG: +25 Range: -0.1",
+            "price": 35,
             "bonusAtkDelay": [
                 0.0,
                 0.0
@@ -76,6 +80,7 @@
             "id": 4,
             "name": "Bigger Bird",
             "desc": "The chicken grows in size, big chicken hehe. \nDMG: +12 Range: +0.2 AtkSpd: +0.1",
+            "price": 70,
             "bonusAtkDelay": [
                 0.1,
                 0.0
@@ -94,6 +99,7 @@
             "id": 5,
             "name": "Lighter Feathers",
             "desc": "The chicken's feathers have a new atomic structure that makes them lighter! \nAtkSpd: -0.05",
+            "price": 20,
             "bonusAtkDelay": [
                 -0.05,
                 0.0
@@ -112,6 +118,7 @@
             "id": 6,
             "name": "Coked out",
             "desc": "Um, your chicken might've ate something it wasn't supposed to. \nDMG: -5 AtkSpd: -0.05",
+            "price": 20,
             "bonusAtkDelay": [
                 -0.05,
                 0.0
@@ -130,6 +137,7 @@
             "id": 7,
             "name": "Even Lighter Feathers",
             "desc": "Using DNA modifying technology this chicken's feathers become super light! \nDMG: -8 AtkSpd: -0.05",
+            "price": 35,
             "bonusAtkDelay": [
                 -0.05,
                 0.0
@@ -148,6 +156,7 @@
             "id": 8,
             "name": "Enraged",
             "desc": "Further consumption of the unknown substance has led to the enraged behavior of your chicken. \nDMG: -15 AtkSpd: -0.12",
+            "price": 70,
             "bonusAtkDelay": [
                 -0.12,
                 0.0
@@ -166,6 +175,7 @@
             "id": 9,
             "name": "Agile Hen",
             "desc": "Consistent substance use paired with high intensity training has brought us here. \nDMG: +25 AtkSpd: -0.1 Range: -0.5",
+            "price": 110,
             "bonusAtkDelay": [
                 -0.1,
                 0.0
@@ -184,6 +194,7 @@
             "id": 10,
             "name": "Eagle Cosplay",
             "desc": "Your chicken admires birds of prey and wants to see farther. \nAtkSpd: -0.2 Range: +0.2",
+            "price": 20,
             "bonusAtkDelay": [
                 -0.2,
                 0.0
@@ -202,6 +213,7 @@
             "id": 11,
             "name": "Gun",
             "desc": "Your chicken seems to enjoy spending time at the firing range. \nRange: +0.3",
+            "price": 20,
             "bonusAtkDelay": [
                 0,
                 0.0
@@ -220,6 +232,7 @@
             "id": 12,
             "name": "Marksman",
             "desc": "Multiple visits to the local optometrist has enhanced the chicken's vision even further. \nDMG: 3 Range: +1",
+            "price": 35,
             "bonusAtkDelay": [
                 0.0,
                 0.0
@@ -238,6 +251,7 @@
             "id": 13,
             "name": "Rapid-fire",
             "desc": "Trigger finger... no, trigger-wings engaged!!! \nDMG: -20% AtkSpd: -50% Range: +2",
+            "price": 55,
             "bonusAtkDelay": [
                 0.0,
                 -50.0
@@ -256,6 +270,7 @@
             "id": 14,
             "name": "Sniper",
             "desc": "Your chicken has enrolled into the military as a spec-ops unit. \nDMG: +11 AtkSpd: +4 Range: +7",
+            "price": 65,
             "bonusAtkDelay": [
                 4.0,
                 0.0
