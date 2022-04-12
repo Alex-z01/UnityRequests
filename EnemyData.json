@@ -16,9 +16,9 @@
         },
         {
             "Name": "Tier 2 Worm",
-            "MaxHp": 30,
-            "MoveSpeed": 1.75,
-            "Value": 4,
+            "MaxHp": 25,
+            "MoveSpeed": 1.2925,
+            "Value": 6,
             "color": {
                 "r": 0.7358490228652954,
                 "g": 0.07983269542455673,
@@ -30,9 +30,9 @@
         },
         {
             "Name": "Tier 3 Worm",
-            "MaxHp": 50,
-            "Value": 8,
-            "MoveSpeed": 2.15,
+            "MaxHp": 40,
+            "Value": 9,
+            "MoveSpeed": 1.565,
             "color": {
                 "r": 0.19188325107097627,
                 "g": 0.6135070323944092,
@@ -44,9 +44,9 @@
         },
         {
             "Name": "Tier 4 Worm",
-            "MaxHp": 100,
-            "Value": 16,
-            "MoveSpeed": 1,
+            "MaxHp": 75,
+            "Value": 13,
+            "MoveSpeed": 1.7465,
             "color": {
                 "r": 0.23,
                 "g": 0.02,
