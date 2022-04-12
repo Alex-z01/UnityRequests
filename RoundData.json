@@ -15,14 +15,8 @@
             "spawnClusters": [
                 {
                     "enemyID": 0,
-                    "spawnCount": 5,
-                    "timeBetween": 0.8999999761581421,
-                    "timeAfter": 2.0
-                },
-                {
-                    "enemyID": 1,
-                    "spawnCount": 2,
-                    "timeBetween": 1.0,
+                    "spawnCount": 12,
+                    "timeBetween": 0.9,
                     "timeAfter": 0.0
                 }
             ],
@@ -32,20 +26,14 @@
             "spawnClusters": [
                 {
                     "enemyID": 0,
-                    "spawnCount": 4,
-                    "timeBetween": 0.8999999761581421,
-                    "timeAfter": 2.0
-                },
-                {
-                    "enemyID": 1,
-                    "spawnCount": 3,
-                    "timeBetween": 1.0,
-                    "timeAfter": 1.0
+                    "spawnCount": 6,
+                    "timeBetween": 0.8,
+                    "timeAfter": 0.2
                 },
                 {
                     "enemyID": 0,
-                    "spawnCount": 4,
-                    "timeBetween": 0.800000011920929,
+                    "spawnCount": 8,
+                    "timeBetween": 0.5,
                     "timeAfter": 0.0
                 }
             ],
