@@ -118,7 +118,7 @@
             "id": 6,
             "name": "Coked out",
             "desc": "Um, your chicken might've ate something it wasn't supposed to. \nDMG: -5 AtkSpd: -0.05",
-            "price": 20,
+            "price": 35,
             "bonusAtkDelay": [
                 -0.05,
                 0.0
